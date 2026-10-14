@@ -24,3 +24,4 @@ This is a static site and has no login or server-side code. To publish it, uploa
 - The source PDF's reference list is not independently audited.
 - Peer-review status is marked “Not stated” rather than inferred.
 - The archive is public-facing, but no analytics, forms, or tracking scripts are included.
+- Testing automated deployment
